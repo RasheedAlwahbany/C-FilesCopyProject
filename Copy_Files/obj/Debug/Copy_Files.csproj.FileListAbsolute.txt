@@ -16,3 +16,12 @@ C:\Users\rashe\Music\C-FilesCopyProject\Copy_Files\obj\Debug\Copy_Files.csprojRe
 C:\Users\rashe\Music\C-FilesCopyProject\Copy_Files\obj\Debug\Copy_Files.Form1.resources
 C:\Users\rashe\Music\C-FilesCopyProject\Copy_Files\obj\Debug\Copy_Files.Properties.Resources.resources
 C:\Users\rashe\Music\C-FilesCopyProject\Copy_Files\obj\Debug\Copy_Files.csproj.GenerateResource.Cache
+C:\Users\rashe\Music\CsharpFilesCopyProject\Copy_Files\bin\Debug\Copy_Files.exe.config
+C:\Users\rashe\Music\CsharpFilesCopyProject\Copy_Files\obj\Debug\Copy_Files.exe
+C:\Users\rashe\Music\CsharpFilesCopyProject\Copy_Files\obj\Debug\Copy_Files.pdb
+C:\Users\rashe\Music\CsharpFilesCopyProject\Copy_Files\bin\Debug\Copy_Files.exe
+C:\Users\rashe\Music\CsharpFilesCopyProject\Copy_Files\bin\Debug\Copy_Files.pdb
+C:\Users\rashe\Music\CsharpFilesCopyProject\Copy_Files\obj\Debug\Copy_Files.csprojResolveAssemblyReference.cache
+C:\Users\rashe\Music\CsharpFilesCopyProject\Copy_Files\obj\Debug\Copy_Files.Form1.resources
+C:\Users\rashe\Music\CsharpFilesCopyProject\Copy_Files\obj\Debug\Copy_Files.Properties.Resources.resources
+C:\Users\rashe\Music\CsharpFilesCopyProject\Copy_Files\obj\Debug\Copy_Files.csproj.GenerateResource.Cache
